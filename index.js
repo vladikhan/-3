@@ -1,6 +1,6 @@
 const carName = "Mazeratti";
-    alert(carName);
+alert(carName);
 let maxCarSpeed = "378km";
-    alert(maxCarSpeed);
-let carOwnwer = "";
-    alert(carOwnwer);
+alert(maxCarSpeed);
+let carOwnwer = "Tony";
+alert (carOwnwer);
